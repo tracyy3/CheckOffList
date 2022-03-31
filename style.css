@@ -1,0 +1,15 @@
+.crossOut {
+  text-decoration-line: line-through;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  background-color: #e9cde0;
+}
+
+button {
+  background-image: linear-gradient(to right, white 0%, plum 51%, #eca1d3 20%);
+}
